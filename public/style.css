@@ -172,6 +172,7 @@ svg {
     font-size: 1.2em;
     background: none;
     cursor: pointer;
+    width: 10em;
 }
 .option:active, .option:focus {
     outline: none;
